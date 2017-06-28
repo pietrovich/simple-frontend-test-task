@@ -1,0 +1,10 @@
+{
+    "name": "test-task",
+    "version": "0.0.1",
+    "description": "We need to refactor the createSelectOptions from sample.js. just to make things better",
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.0.2",
+        "mocha": "^3.4.2"
+    }
+}
